@@ -1,0 +1,6 @@
+tests/ReqSpecTests.class
+data/BookingDate.class
+tests/BasicTests.class
+tests/GPathTests.class
+tests/SerializeDeserializeTests.class
+data/Booking.class
